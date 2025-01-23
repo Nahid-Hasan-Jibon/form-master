@@ -21,7 +21,9 @@
  * --------------------------------------------------
  * 
  * 
- * Uncontrolled Components
- * ---------------------------
+ * 5. use Hook to handle states and submit and error 
+ * example react hook form
+ * Reuseable component.
+ * 
  * 
  */
